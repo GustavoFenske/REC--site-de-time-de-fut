@@ -1,0 +1,11 @@
+#brasão{
+    width: 100px;
+}
+
+#barra{
+     background-color: rgb(0, 26, 255);
+    color: rgb(240, 248, 255);
+    border: 10px solid rgb(0, 0, 0);
+    display: flex;
+    padding: 20px;
+}
