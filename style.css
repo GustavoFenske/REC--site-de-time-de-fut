@@ -17,3 +17,12 @@
     width: 200px;
     height: 200px;
 }
+
+#noticias {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 30px;
+    flex-wrap: wrap;
+    gap: 30px;
+}
