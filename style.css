@@ -41,3 +41,22 @@
 body{
 background-image: url(assets/fundo\ site.jpg); 
 }
+
+.imagem_seleção{
+    width: 100px;
+    height: 100px;
+}
+
+#seleção{
+    background-color: rgb(92, 176, 233);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: space-around;
+    border: 10px solid rgb(0, 4, 255);
+    padding: 40px;
+    gap: 15px;
+    
+    
+}
