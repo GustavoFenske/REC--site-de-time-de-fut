@@ -26,3 +26,14 @@
     flex-wrap: wrap;
     gap: 30px;
 }
+
+.noticias{
+    background-color: rgb(92, 176, 233);
+    color: rgb(0, 0, 0);
+    border: 10px solid rgb(0, 4, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    
+    
+
+}
